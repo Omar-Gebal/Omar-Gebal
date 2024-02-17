@@ -29,7 +29,6 @@ With 3 years of software engineering experience and 2 years of graphic design ex
 
 <a href="http://www.github.com/Omar-Gebal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Gebal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Omar-Gebal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Omar-Gebal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
