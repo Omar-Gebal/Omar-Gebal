@@ -8,7 +8,7 @@ With 3 years of software engineering experience and 2 years of graphic design ex
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [2001omaremad@gmail.com](mailto:2001omaremad@gmail.com) or  on <a href="https://www.linkedin.com/in/omaremadd/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="15" height="15" /> </picture> </a>
-* 🧠  I'm learning Flask and backend development
+* 🧠  I'm learning Golang and backend development
 * 🤝  I'm open to collaborating on any interesting project, this includes software systems, cross platform apps and websites. (you name it I probably can do it)
 
 ### Skills
