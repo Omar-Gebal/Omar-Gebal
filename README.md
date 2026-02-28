@@ -30,10 +30,6 @@ With 4 years of software engineering experience and 2 years of graphic design ex
 <a href="http://www.github.com/Omar-Gebal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Gebal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Omar-Gebal/facebook-posts-python-scraper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Gebal&repo=facebook-posts-python-scraper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omar-Gebal/Diamonds-Statistical-Analysis-Regression-Classification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Gebal&repo=Diamonds-Statistical-Analysis-Regression-Classification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br />
 
 <div width="100%" align="center"><a href="https://github.com/Omar-Gebal/kitty-beats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Gebal&repo=kitty-beats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
